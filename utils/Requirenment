@@ -1,0 +1,7 @@
+base environment:
+conda install pytorch::pytorch torchvision torchaudio -c pytorch //for mac
+https://pytorch.org/get-started/locally/
+pip install matplotlib
+pip install transformers 
+pip install pillow
+pip install open3d
