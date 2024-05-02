@@ -1,5 +1,6 @@
 # FinalProject
-computer vision final project - object detection
+Computer vision final project - background subtraction, handling noise, 3D Reconstruction, skills related to motion and object detection and hands-on experience in video processing   
+In the project, we used python and requirement enviornment was wroted in utils.requirenments.txt
 ## Motivation   
 We chose the topic of object detection and motion detection for a surveillance camera primarily to explore the daily activities of a cat. Our aim is to gain insight s into their behaviors and movements throughout the day. For instance, the camera can identify if the cat is moving or staying still, For example, we can know if it is near its bowl or sleeping at different times. Corresponding labels and boxes can be generated with the input video. Subsequently, logs of the cat activity can be generated. We also implement a creative function that combining the power of deep learning unlocks the ability to get 3D models from a single image.   
 The team expects to acquire substantial knowledge about background subtraction, handling noise, 3D Reconstruction, skills related to motion and object detection and hands-on experience in video processing.   
