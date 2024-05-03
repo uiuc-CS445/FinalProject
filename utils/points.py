@@ -118,3 +118,4 @@ def get_mask(ys, xs, img):
     fig = plt.figure()
     plt.imshow(mask, cmap='gray')
     return mask
+
