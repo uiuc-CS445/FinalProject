@@ -21,20 +21,20 @@ Similar to cat detection, we continued from background subtraction,  reading and
 We used Deep learning and Open3D software to implement this task. Firstly, we got the prediction from the model and prepared the depth image of open3d. We took the depth data and used it to make a point cloud of the space those images show. Then it took us from traditional image processing into the more advanced world of 3D modeling and visualization. We also kept tweaking numbers and modified algorithms. Therefore we improved the quality of the mesh. Finally, we  exported the grid and the OBJ file that can be shown to users. 
 
 ## Results   
-We have 3 samples of background subtraction, motion & object detection.
-Background subtraction:
-Original version(threshold background subtraction with gaussian blur) - sample 1: https://youtu.be/Qc7Utkhj5GI
-Original version(threshold background subtraction with gaussian blur and erode dilate) - sample 1: https://youtu.be/8UDBfktH8-g
-Improved version(with knn) - sample 1: https://youtu.be/BGnPxPXnDLU
-Improved version(with knn) - sample 2: https://youtu.be/AU1F6q-eKVw
-Improved version(with knn) - sample3:https://youtube.com/shorts/0P1rAAZ2vSI?feature=share
-Motion and Object detection:
-	Sample 1: https://youtu.be/wdkrKZ0cOXA
-	Sample 2:https://youtu.be/DtsX5CG61c8
-	Sample 3:https://youtube.com/shorts/YBChinVjcJQ?feature=share
-	Check eating: https://youtube.com/shorts/QfQ8Z7vvk6I?feature=share
-
-3D Reconstruction: https://youtu.be/zLCXLwzasq8
+We have 3 samples of background subtraction, motion & object detection.   
+Background subtraction:   
+Original version(threshold background subtraction with gaussian blur) - sample 1: https://youtu.be/Qc7Utkhj5GI   
+Original version(threshold background subtraction with gaussian blur and erode dilate) - sample 1: https://youtu.be/8UDBfktH8-g   
+Improved version(with knn) - sample 1: https://youtu.be/BGnPxPXnDLU   
+Improved version(with knn) - sample 2: https://youtu.be/AU1F6q-eKVw   
+Improved version(with knn) - sample3:https://youtube.com/shorts/0P1rAAZ2vSI?feature=share   
+Motion and Object detection:   
+ 	Sample 1: https://youtu.be/wdkrKZ0cOXA   
+	Sample 2:https://youtu.be/DtsX5CG61c8   
+	Sample 3:https://youtube.com/shorts/YBChinVjcJQ?feature=share   
+	Check eating: https://youtube.com/shorts/QfQ8Z7vvk6I?feature=share   
+   
+3D Reconstruction: https://youtu.be/zLCXLwzasq8   
  
     
 ## Implementation details:  
