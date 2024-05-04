@@ -45,15 +45,19 @@ Motion and Object detection:
 ### File Structure:
 In this project, we use Juypter and python.   
 #### Reference: 
-Key idea is from coursera 7.2 https://www.coursera.org/learn/cs-445/lecture/PfSFy/lesson-7-2-3-3d-reconstruction   
 https://stackoverflow.com/questions/4902491/tips-for-background-subtraction-in-the-face-of-noise   
 https://www.southampton.ac.uk/~msn/book/new_demo/gaussian/#:~:text=The%20Gaussian%20Smoothing%20Operator%20performs,how%20large%20the%20template%20is.   
 https://docs.opencv.org/3.4/db/df6/tutorial_erosion_dilatation.html   
 https://stackoverflow.com/questions/55853994/how-to-remove-shadows-from-a-video-that-has-static-background  
 https://docs.opencv.org/4.x/db/d88/classcv_1_1BackgroundSubtractorKNN.html#details  
-​​https://www.geeksforgeeks.org/transform-a-2d-image-into-a-3d-space-using-opencv/   
 Install PyTorch environment: https://pytorch.org/get-started/locally/   
-https://chat.openai.com/   
+http://www.mizuno.org/gl/tip/    
+​​https://www.geeksforgeeks.org/transform-a-2d-image-into-a-3d-space-using-opencv/      
+https://stackoverflow.com/questions/61111435/steps-for-3d-reconstruction   
+https://www.open3d.org/docs/release/python_api/open3d.visualization.draw.html   
+Key idea is from coursera 7.2 https://www.coursera.org/learn/cs-445/lecture/PfSFy/lesson-7-2-3-3d-reconstruction   
+https://chat.openai.com/      
+ 
 
 
 
