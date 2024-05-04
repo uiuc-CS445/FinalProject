@@ -9,13 +9,13 @@ We chose the topic of object detection and motion detection for a surveillance c
 The team expects to acquire substantial knowledge about background subtraction, handling noise, 3D Reconstruction, skills related to motion and object detection and hands-on experience in video processing.
    
 ## Setup   
-In the project, we used python and requirement enviornment was wroted in utils.requirenments.txt
-conda install pytorch::pytorch torchvision torchaudio -c pytorch //for mac
-https://pytorch.org/get-started/locally/
-pip install matplotlib
-pip install transformers 
-pip install pillow
-pip install open3d
+In the project, we used python and requirement enviornment was wroted in utils.requirenments.txt   
+conda install pytorch::pytorch torchvision torchaudio -c pytorch //for mac   
+https://pytorch.org/get-started/locally/   
+pip install matplotlib   
+pip install transformers    
+pip install pillow   
+pip install open3d   
 
 ## Approach   
 In this project, we implemented background subtraction, motion and object detection and 3D Reconstruction. Then we compared performance by different approaches.   
